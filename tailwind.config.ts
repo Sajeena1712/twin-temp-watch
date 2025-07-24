@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Digital Twin theme colors
+				'tech-primary': 'hsl(var(--tech-primary))',
+				'tech-secondary': 'hsl(var(--tech-secondary))',
+				'tech-accent': 'hsl(var(--tech-accent))',
+				'tech-glow': 'hsl(var(--tech-glow))',
+				'temp-cold': 'hsl(var(--temp-cold))',
+				'temp-normal': 'hsl(var(--temp-normal))',
+				'temp-hot': 'hsl(var(--temp-hot))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
